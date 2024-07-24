@@ -10,7 +10,6 @@
     <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup />
-  <ItemGroup />
   <ItemGroup>
     <Reference Include="dotnet">
       <HintPath>..\..\..\Desktop\twitchbot-v1.3.72.35\dotnet.dll</HintPath>
